@@ -1,0 +1,14 @@
+C:\Users\Baku\Desktop\Method\obj\Debug\net8.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\Method\obj\Debug\net8.0\Method.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\Method\obj\Debug\net8.0\Method.AssemblyInfo.cs
+C:\Users\Baku\Desktop\Method\obj\Debug\net8.0\Method.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\Method\bin\Debug\net8.0\Method.exe
+C:\Users\Baku\Desktop\Method\bin\Debug\net8.0\Method.deps.json
+C:\Users\Baku\Desktop\Method\bin\Debug\net8.0\Method.runtimeconfig.json
+C:\Users\Baku\Desktop\Method\bin\Debug\net8.0\Method.dll
+C:\Users\Baku\Desktop\Method\bin\Debug\net8.0\Method.pdb
+C:\Users\Baku\Desktop\Method\obj\Debug\net8.0\Method.dll
+C:\Users\Baku\Desktop\Method\obj\Debug\net8.0\refint\Method.dll
+C:\Users\Baku\Desktop\Method\obj\Debug\net8.0\Method.pdb
+C:\Users\Baku\Desktop\Method\obj\Debug\net8.0\Method.genruntimeconfig.cache
+C:\Users\Baku\Desktop\Method\obj\Debug\net8.0\ref\Method.dll
